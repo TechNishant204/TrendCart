@@ -3,7 +3,7 @@ import React from "react";
 function Hero() {
   return (
     <div>
-      <div className="w-full container px-12 py-12 mx-auto text-center bg-gradient-to-b from-indigo-50 to-white dark:from-gray-800 dark:to-gray-900">
+      <div className="w-full container py-12 mx-auto text-center bg-gradient-to-b from-indigo-100 to-white dark:from-gray-800 dark:to-gray-900">
         <h1 className="text-2xl md:text-4xl font-bold text-gray-500 dark:text-blue-700 mb-8 mt-12">
           Luxury in Every Wearable, Deals You Can't Miss!
         </h1>

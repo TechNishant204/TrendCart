@@ -2,7 +2,7 @@
 <p align='center'>TrendCart is a simple and interactive shopping cart application</p>
 
 <img src="https://github.com/TechNishant204/TrendCart/blob/master/public/favicon/Screenshot%202025-02-28%20212502.png" alt="amiresponsive"/>
-Live preview : <a href="trendcart-site.netlify.app"> </a>
+<a href="trendcart-site.netlify.app">trendcart-site.netlify.app</a>
 
 <br/>
 <br/>

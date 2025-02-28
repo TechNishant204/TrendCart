@@ -13,7 +13,7 @@
 </ul>
 
 
-<img src="https://github.com/user-attachments/assets/0791e8a5-11e9-4850-bac4-a5f36e4319aa](https://github.com/TechNishant204/TrendCart/blob/master/public/favicon/Screenshot%202025-02-28%20212502.png" alt="amiresponsive"/>
+<img src="https://github.com/TechNishant204/TrendCart/blob/master/public/favicon/Screenshot%202025-02-28%20212502.png" alt="amiresponsive"/>
 Live preview : trendcart-site.netlify.app
 
 

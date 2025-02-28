@@ -9,7 +9,7 @@ export default function Header({ handleOpenModal, cartLength }) {
           className="flex w-1/2 md:w-1/12 items-center space-x-1 space-x-reverse"
         >
           <img src={Logo} className="h-8" alt="Flowbite Logo" />
-          <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+          <span className="self-center text-2xl font-semibold whitespace-nowrap text-white dark:text-white">
             TrendCart
           </span>
         </a>

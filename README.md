@@ -1,5 +1,5 @@
 <h1 align='center'>TrendCart- E-Commerce site</h1>
-<p align='center'>TrendCart is a simple and interactive shopping cart application</p>p>
+<p align='center'>TrendCart is a simple and interactive shopping cart application</p>
 <br/>
 <br/>
 <h2>Features</h2>

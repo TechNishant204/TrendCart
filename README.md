@@ -12,7 +12,7 @@
   <li>Interactive Notifications</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/0791e8a5-11e9-4850-bac4-a5f36e4319aa)
+<img src="https://github.com/user-attachments/assets/0791e8a5-11e9-4850-bac4-a5f36e4319aa" alt="amiresponsive"/>
 Live preview : trendcart-site.netlify.app
 
 

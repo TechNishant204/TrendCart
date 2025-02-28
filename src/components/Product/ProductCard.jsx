@@ -2,13 +2,13 @@ import React from "react";
 
 function ProductCard({ product, handleAddToCart }) {
   return (
-    <div className="bg-gray-300 rounded-lg mb-12 relative shadow-xl">
+    <div className="bg-gray-300 sm:w-5/12 md:w-full sm:h-64 md:h-80 xl:h-96 rounded-lg mx-auto mb-6 md:mb-12 relative shadow-xl">
       <img
         src={product.image}
         alt={product.title}
-        className="aspect-square mb-5 w-full rounded-lg bg-gray-200 object-fill group-hover:opacity-75 xl:aspect-6/8"
+        className="sm:w-75% md:w-full sm:h-32 md:h-40 xl:h-48 rounded-lg bg-gray-200 object-fill mb-5"
       />
-      <h3 className="mt-4 text-sm md:text-base font-medium px-4  text-gray-700">
+      <h3 className="mt-4 text-sm md:text-base font-medium px-4 text-gray-700">
         {product.title}
       </h3>
       <p className="mt-1 px-4 py-4 mb-8 text-lg font-medium text-gray-900">

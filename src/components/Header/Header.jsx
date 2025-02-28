@@ -2,7 +2,7 @@ import Logo from "../../assets/logo.webp";
 
 export default function Header({ handleOpenModal, cartLength }) {
   return (
-    <nav className="bg-white w-full border-gray-200 dark:bg-gray-900">
+    <nav className="w-full border-gray-200 bg-gray-900">
       <div className="max-w-screen-xl flex items-center justify-between mx-auto py-4 relative">
         <a
           href="#"
